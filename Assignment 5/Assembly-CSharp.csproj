@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\characterMovement.cs" />
      <Compile Include="Assets\Collectable.cs" />
+     <Compile Include="Assets\IdleToWalk.cs" />
      <Compile Include="Assets\opendoor.cs" />
      <Compile Include="Assets\thirdpov.cs" />
      <Compile Include="Assets\UETools\Magic_Particle_Effects\Scripts\CameraMovement.cs" />
